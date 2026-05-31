@@ -1,0 +1,60 @@
+# Roadmap para Especialista em Ciência de Dados
+
+O conteúdo organiza um plano de estudos e referências para se tornar **Especialista em Ciência de Dados**,
+com foco em fundamentos matemáticos, machine learning, big data, MLOps e IA generativa aplicadas para soluções de negócio.
+
+## Roadmap
+
+### 1. Fundamentos Essenciais
+- Estatística descritiva e inferencial  
+- Álgebra linear (vetores, matrizes, PCA)  
+- Cálculo (derivadas, gradiente descendente)  
+- Programação: Python (pandas, NumPy, matplotlib, seaborn), R, SQL  
+
+### 2. Análise e Visualização
+- EDA (Exploratory Data Analysis)  
+- Visualização: matplotlib, seaborn, plotly, Tableau, Power BI  
+- Storytelling com dados  
+
+### 3. Machine Learning e IA
+- Modelos clássicos: regressão, classificação, clusterização  
+- Modelos avançados: Random Forest, Gradient Boosting, SVM  
+- Deep Learning: CNNs, RNNs, Transformers  
+- Ferramentas: scikit-learn, TensorFlow, PyTorch  
+
+### 4. Big Data e Engenharia de Dados
+- Spark, Hadoop  
+- Cloud: AWS, Google Cloud, Azure  
+- Data pipelines: Airflow, dbt  
+
+### 5. MLOps e Deploy
+- Versionamento e monitoramento de modelos  
+- MLflow, Kubeflow, DVC, Docker, Kubernetes  
+- CI/CD para ML  
+- Observabilidade e métricas de drift  
+
+### 6. IA Generativa e Agentes Inteligentes
+- LLMs (GPT, LLaMA, Claude)  
+- Aplicações práticas: chatbots, análise de documentos, geração de código  
+- Ferramentas: LangChain, Hugging Face, OpenAI APIs  
+
+### 7. Projetos e Portfólio
+- Hackathons e Kaggle  
+- Projetos aplicados em finanças, saúde, marketing  
+- Deploy real de modelos em nuvem  
+- Publicação de notebooks e artigos  
+
+
+## Referências de pesquisa
+- DataCamp – Roteiro de Ciência de Dados  
+- DataViking – Roadmap em Ciência de Dados  
+- Coursera – Curso de MLOps (DeepLearning.AI)  
+- Hugging Face – Documentação de Transformers  
+- Documentação oficial: scikit-learn, TensorFlow, PyTorch  
+
+
+## Pontos de Atenção
+- Especialização é chave: dominar estatística, ML e cloud  
+- Portfólio diferenciado: projetos aplicados + deploy em produção  
+- Atualização constante: Redes Neurais, IA generativa e MLOps são alguns assuntos  
+- Pensamento de negócio: traduzir modelos em impacto real com pensamento analitico avançado
