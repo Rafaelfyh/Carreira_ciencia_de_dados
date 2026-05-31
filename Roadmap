@@ -1,7 +1,19 @@
-# Roadmap para Especialista em Ciência de Dados
-
 O conteúdo organiza um plano de estudos e referências para se tornar **Especialista em Ciência de Dados**,
 com foco em fundamentos matemáticos, machine learning, big data, MLOps e IA generativa aplicadas para soluções de negócio.
+
+
+fundamentos/ → materiais de estatística, álgebra, cálculo.
+
+analise_visualizacao/ → exemplos de EDA e dashboards.
+
+machine_learning/ → notebooks com modelos clássicos e avançados.
+
+bigdata_mlops/ → pipelines, deploy, exemplos com Spark, MLflow, Kubeflow.
+
+ia_generativa/ → exemplos de uso de LLMs e agentes inteligentes.
+
+# Roadmap para Especialista em Ciência de Dados
+
 
 ## Roadmap
 
