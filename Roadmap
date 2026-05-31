@@ -17,118 +17,31 @@ ia_generativa/ → exemplos de uso de LLMs e agentes inteligentes.
 
 ## Roadmap
 
-# 🚀 Roadmap para Especialista em Ciência de Dados
+#  Roadmap para Especialista em Ciência de Dados
 
-Este repositório organiza um plano de estudos e referências para se tornar **Especialista em Ciência de Dados**, com foco em fundamentos matemáticos, machine learning, big data, MLOps e IA generativa aplicada ao negócio.
-
-## 📌 Estrutura do Roadmap
 
 1. Fundamentos Essenciais
 
 Estatística descritiva e inferencial
-
 Álgebra linear (vetores, matrizes, PCA)
-
 Cálculo (derivadas, gradiente descendente)
-
 Programação: Python (pandas, NumPy, matplotlib, seaborn), R, SQL
-
 2. Análise e Visualização
-
 EDA (Exploratory Data Analysis)
-
 Visualização: matplotlib, seaborn, plotly, Tableau, Power BI
-
 Storytelling com dados
 
 3. Machine Learning e IA
-
 Modelos clássicos: regressão, classificação, clusterização
-
 Modelos avançados: Random Forest, Gradient Boosting, SVM
-
 Deep Learning: CNNs, RNNs, Transformers
-
 Ferramentas: scikit-learn, TensorFlow, PyTorch
-
 4. Big Data e Cloud
-
 Processamento distribuído: Spark, Hadoop
-
 Databricks (integração com Spark, notebooks colaborativos, ML pipelines)
 
 Azure (Synapse, ML Studio, Data Lake)
-
 AWS (S3, Redshift, SageMaker)
-
 Google Cloud (BigQuery, Vertex AI)
-
 Data pipelines: Airflow, dbt
-
-5. MLOps e Deploy
-
-Versionamento e monitoramento de modelos
-
-MLflow, Kubeflow, DVC, Docker, Kubernetes
-
-CI/CD para ML
-
-Observabilidade e métricas de drift
-
-6. IA Generativa e Agentes Inteligentes
-
-LLMs (GPT, LLaMA, Claude, Mistral)
-
-Aplicações práticas: chatbots, análise de documentos, geração de código
-
-Ferramentas: LangChain, Hugging Face, LlamaIndex, OpenAI APIs
-
-RAG (Retrieval-Augmented Generation): FAISS, Pinecone, Weaviate
-
-Prompt Engineering: técnicas avançadas (chain-of-thought, few-shot)
-
-Agentes Inteligentes: AutoGPT, CrewAI, ecossistemas multiagente
-
-Ambiente e Configuração: Docker, Conda, ambientes virtuais
-
-Automação de processos: pipelines de IA eficientes
-
-7. Redes Neurais (Plus)
-
-CNNs, RNNs, Transformers
-
-Aplicações em visão computacional, NLP e séries temporais
-
-Diferencial: poucos especialistas dominam redes neurais em profundidade
-
-8. Projetos e Portfólio
-
-Hackathons e Kaggle
-
-Projetos aplicados em finanças, saúde, marketing
-
-Deploy real de modelos em nuvem com MLOps
-
-Publicação de notebooks no GitHub e artigos no Medium/LinkedIn
-
-##  Referências
-- DataCamp – Roteiro de Ciência de Dados  
-- DataViking – Roadmap em Ciência de Dados  
-- Coursera – Curso de MLOps (DeepLearning.AI)  
-- Hugging Face – Documentação de Transformers e RAG  
-- Microsoft Learn – GenAIOps/LLMOps (MLOps para IA generativa)  
-- Google Cloud – Guia de implantação de IA generativa (Vertex AI, BigQuery)  
-- LangChain – Documentação de agentes e ecossistemas  
-- Documentação oficial: scikit-learn, TensorFlow, PyTorch  
-- Databricks – Recursos de Data Lakehouse e ML pipelines  
-
----
-
-##  Pontos de Atenção
-- **Especialização é chave:** dominar estatística, ML e cloud (Databricks, Azure, AWS, GCP).  
-- **Portfólio diferenciado:** projetos aplicados + deploy em produção com MLOps.  
-- **Atualização constante:** IA generativa, RAG e agentes inteligentes são exigências crescentes.  
-- **Pensamento de negócio:** traduzir modelos em impacto real para empresas.  
-- **Eficiência e automação:** configurar ambientes e pipelines que reduzam custo e tempo.  
-- **Redes neurais como diferencial:** poucos especialistas dominam CNNs, RNNs e Transformers em profundidade.  
 
